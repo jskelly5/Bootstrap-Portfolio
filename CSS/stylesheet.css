@@ -1,0 +1,14 @@
+.Navbar{
+    background-color: pink !important;
+}
+
+.card{
+    margin: 10% !important;
+    
+}
+
+a:hover {
+    background-color: yellow;
+  }
+
+.jumbotron
