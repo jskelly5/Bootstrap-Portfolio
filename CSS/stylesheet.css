@@ -1,5 +1,5 @@
 .Navbar{
-    background-color: pink !important;
+    background-color: rgb(212, 195, 228) !important;
 }
 
 .card{
@@ -11,4 +11,13 @@ a:hover {
     background-color: yellow;
   }
 
-.jumbotron
+.jumbotron{
+    background-color: rgb(212, 195, 228) !important;
+}
+
+.display-4{
+    align-items: center !important;
+}
+
+.btn{
+box-shadow: 0px 5px 10px 0px rgb(212, 195, 228)}
